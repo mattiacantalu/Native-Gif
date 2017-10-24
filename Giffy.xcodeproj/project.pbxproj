@@ -7,33 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		62CE70F41F9F5D9100FCB2BC /* Tackle-3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 62CE70EE1F9F5D9100FCB2BC /* Tackle-3.gif */; };
+		62CE70F51F9F5D9100FCB2BC /* Tackle-2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 62CE70EF1F9F5D9100FCB2BC /* Tackle-2.gif */; };
+		62CE70F61F9F5D9100FCB2BC /* Tackle-1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 62CE70F01F9F5D9100FCB2BC /* Tackle-1.gif */; };
+		62CE70F71F9F5D9100FCB2BC /* Tackle-4.gif in Resources */ = {isa = PBXBuildFile; fileRef = 62CE70F11F9F5D9100FCB2BC /* Tackle-4.gif */; };
+		62CE70F81F9F5D9100FCB2BC /* Tackle-5.gif in Resources */ = {isa = PBXBuildFile; fileRef = 62CE70F21F9F5D9100FCB2BC /* Tackle-5.gif */; };
+		62CE70F91F9F5D9100FCB2BC /* Tackle-6.gif in Resources */ = {isa = PBXBuildFile; fileRef = 62CE70F31F9F5D9100FCB2BC /* Tackle-6.gif */; };
 		CCBF334F1F17B8AF003D650B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCBF334E1F17B8AF003D650B /* AppDelegate.swift */; };
 		CCBF33511F17B8AF003D650B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCBF33501F17B8AF003D650B /* ViewController.swift */; };
 		CCBF33541F17B8AF003D650B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCBF33521F17B8AF003D650B /* Main.storyboard */; };
 		CCBF33561F17B8AF003D650B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCBF33551F17B8AF003D650B /* Assets.xcassets */; };
 		CCBF33591F17B8AF003D650B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCBF33571F17B8AF003D650B /* LaunchScreen.storyboard */; };
-		CCBF33641F17B8AF003D650B /* GiffyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCBF33631F17B8AF003D650B /* GiffyTests.swift */; };
-		CCBF336F1F17B8B0003D650B /* GiffyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCBF336E1F17B8B0003D650B /* GiffyUITests.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		CCBF33601F17B8AF003D650B /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = CCBF33431F17B8AF003D650B /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = CCBF334A1F17B8AF003D650B;
-			remoteInfo = Giffy;
-		};
-		CCBF336B1F17B8B0003D650B /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = CCBF33431F17B8AF003D650B /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = CCBF334A1F17B8AF003D650B;
-			remoteInfo = Giffy;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
+		62CE70EE1F9F5D9100FCB2BC /* Tackle-3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Tackle-3.gif"; sourceTree = "<group>"; };
+		62CE70EF1F9F5D9100FCB2BC /* Tackle-2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Tackle-2.gif"; sourceTree = "<group>"; };
+		62CE70F01F9F5D9100FCB2BC /* Tackle-1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Tackle-1.gif"; sourceTree = "<group>"; };
+		62CE70F11F9F5D9100FCB2BC /* Tackle-4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Tackle-4.gif"; sourceTree = "<group>"; };
+		62CE70F21F9F5D9100FCB2BC /* Tackle-5.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Tackle-5.gif"; sourceTree = "<group>"; };
+		62CE70F31F9F5D9100FCB2BC /* Tackle-6.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Tackle-6.gif"; sourceTree = "<group>"; };
 		CCBF334B1F17B8AF003D650B /* Giffy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Giffy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCBF334E1F17B8AF003D650B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CCBF33501F17B8AF003D650B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -41,12 +34,6 @@
 		CCBF33551F17B8AF003D650B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CCBF33581F17B8AF003D650B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CCBF335A1F17B8AF003D650B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CCBF335F1F17B8AF003D650B /* GiffyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GiffyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		CCBF33631F17B8AF003D650B /* GiffyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GiffyTests.swift; sourceTree = "<group>"; };
-		CCBF33651F17B8AF003D650B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CCBF336A1F17B8B0003D650B /* GiffyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GiffyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		CCBF336E1F17B8B0003D650B /* GiffyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GiffyUITests.swift; sourceTree = "<group>"; };
-		CCBF33701F17B8B0003D650B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,29 +44,27 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CCBF335C1F17B8AF003D650B /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		CCBF33671F17B8B0003D650B /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		62CE70ED1F9F5AA300FCB2BC /* Gif */ = {
+			isa = PBXGroup;
+			children = (
+				62CE70F01F9F5D9100FCB2BC /* Tackle-1.gif */,
+				62CE70EF1F9F5D9100FCB2BC /* Tackle-2.gif */,
+				62CE70EE1F9F5D9100FCB2BC /* Tackle-3.gif */,
+				62CE70F11F9F5D9100FCB2BC /* Tackle-4.gif */,
+				62CE70F21F9F5D9100FCB2BC /* Tackle-5.gif */,
+				62CE70F31F9F5D9100FCB2BC /* Tackle-6.gif */,
+			);
+			path = Gif;
+			sourceTree = "<group>";
+		};
 		CCBF33421F17B8AF003D650B = {
 			isa = PBXGroup;
 			children = (
+				62CE70ED1F9F5AA300FCB2BC /* Gif */,
 				CCBF334D1F17B8AF003D650B /* Giffy */,
-				CCBF33621F17B8AF003D650B /* GiffyTests */,
-				CCBF336D1F17B8B0003D650B /* GiffyUITests */,
 				CCBF334C1F17B8AF003D650B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -88,8 +73,6 @@
 			isa = PBXGroup;
 			children = (
 				CCBF334B1F17B8AF003D650B /* Giffy.app */,
-				CCBF335F1F17B8AF003D650B /* GiffyTests.xctest */,
-				CCBF336A1F17B8B0003D650B /* GiffyUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -105,24 +88,6 @@
 				CCBF335A1F17B8AF003D650B /* Info.plist */,
 			);
 			path = Giffy;
-			sourceTree = "<group>";
-		};
-		CCBF33621F17B8AF003D650B /* GiffyTests */ = {
-			isa = PBXGroup;
-			children = (
-				CCBF33631F17B8AF003D650B /* GiffyTests.swift */,
-				CCBF33651F17B8AF003D650B /* Info.plist */,
-			);
-			path = GiffyTests;
-			sourceTree = "<group>";
-		};
-		CCBF336D1F17B8B0003D650B /* GiffyUITests */ = {
-			isa = PBXGroup;
-			children = (
-				CCBF336E1F17B8B0003D650B /* GiffyUITests.swift */,
-				CCBF33701F17B8B0003D650B /* Info.plist */,
-			);
-			path = GiffyUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -145,42 +110,6 @@
 			productReference = CCBF334B1F17B8AF003D650B /* Giffy.app */;
 			productType = "com.apple.product-type.application";
 		};
-		CCBF335E1F17B8AF003D650B /* GiffyTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = CCBF33761F17B8B0003D650B /* Build configuration list for PBXNativeTarget "GiffyTests" */;
-			buildPhases = (
-				CCBF335B1F17B8AF003D650B /* Sources */,
-				CCBF335C1F17B8AF003D650B /* Frameworks */,
-				CCBF335D1F17B8AF003D650B /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				CCBF33611F17B8AF003D650B /* PBXTargetDependency */,
-			);
-			name = GiffyTests;
-			productName = GiffyTests;
-			productReference = CCBF335F1F17B8AF003D650B /* GiffyTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		CCBF33691F17B8B0003D650B /* GiffyUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = CCBF33791F17B8B0003D650B /* Build configuration list for PBXNativeTarget "GiffyUITests" */;
-			buildPhases = (
-				CCBF33661F17B8B0003D650B /* Sources */,
-				CCBF33671F17B8B0003D650B /* Frameworks */,
-				CCBF33681F17B8B0003D650B /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				CCBF336C1F17B8B0003D650B /* PBXTargetDependency */,
-			);
-			name = GiffyUITests;
-			productName = GiffyUITests;
-			productReference = CCBF336A1F17B8B0003D650B /* GiffyUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -194,16 +123,6 @@
 					CCBF334A1F17B8AF003D650B = {
 						CreatedOnToolsVersion = 8.3.3;
 						ProvisioningStyle = Automatic;
-					};
-					CCBF335E1F17B8AF003D650B = {
-						CreatedOnToolsVersion = 8.3.3;
-						ProvisioningStyle = Automatic;
-						TestTargetID = CCBF334A1F17B8AF003D650B;
-					};
-					CCBF33691F17B8B0003D650B = {
-						CreatedOnToolsVersion = 8.3.3;
-						ProvisioningStyle = Automatic;
-						TestTargetID = CCBF334A1F17B8AF003D650B;
 					};
 				};
 			};
@@ -221,8 +140,6 @@
 			projectRoot = "";
 			targets = (
 				CCBF334A1F17B8AF003D650B /* Giffy */,
-				CCBF335E1F17B8AF003D650B /* GiffyTests */,
-				CCBF33691F17B8B0003D650B /* GiffyUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -235,20 +152,12 @@
 				CCBF33591F17B8AF003D650B /* LaunchScreen.storyboard in Resources */,
 				CCBF33561F17B8AF003D650B /* Assets.xcassets in Resources */,
 				CCBF33541F17B8AF003D650B /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		CCBF335D1F17B8AF003D650B /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		CCBF33681F17B8B0003D650B /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				62CE70F51F9F5D9100FCB2BC /* Tackle-2.gif in Resources */,
+				62CE70F41F9F5D9100FCB2BC /* Tackle-3.gif in Resources */,
+				62CE70F81F9F5D9100FCB2BC /* Tackle-5.gif in Resources */,
+				62CE70F71F9F5D9100FCB2BC /* Tackle-4.gif in Resources */,
+				62CE70F61F9F5D9100FCB2BC /* Tackle-1.gif in Resources */,
+				62CE70F91F9F5D9100FCB2BC /* Tackle-6.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,36 +173,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CCBF335B1F17B8AF003D650B /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				CCBF33641F17B8AF003D650B /* GiffyTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		CCBF33661F17B8B0003D650B /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				CCBF336F1F17B8B0003D650B /* GiffyUITests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		CCBF33611F17B8AF003D650B /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = CCBF334A1F17B8AF003D650B /* Giffy */;
-			targetProxy = CCBF33601F17B8AF003D650B /* PBXContainerItemProxy */;
-		};
-		CCBF336C1F17B8B0003D650B /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = CCBF334A1F17B8AF003D650B /* Giffy */;
-			targetProxy = CCBF336B1F17B8B0003D650B /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		CCBF33521F17B8AF003D650B /* Main.storyboard */ = {
@@ -434,60 +314,6 @@
 			};
 			name = Release;
 		};
-		CCBF33771F17B8B0003D650B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = GiffyTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.mattiacantalu.GiffyTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Giffy.app/Giffy";
-			};
-			name = Debug;
-		};
-		CCBF33781F17B8B0003D650B /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = GiffyTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.mattiacantalu.GiffyTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Giffy.app/Giffy";
-			};
-			name = Release;
-		};
-		CCBF337A1F17B8B0003D650B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				INFOPLIST_FILE = GiffyUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.mattiacantalu.GiffyUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_TARGET_NAME = Giffy;
-			};
-			name = Debug;
-		};
-		CCBF337B1F17B8B0003D650B /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				INFOPLIST_FILE = GiffyUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.mattiacantalu.GiffyUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_TARGET_NAME = Giffy;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -507,22 +333,7 @@
 				CCBF33751F17B8B0003D650B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-		};
-		CCBF33761F17B8B0003D650B /* Build configuration list for PBXNativeTarget "GiffyTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				CCBF33771F17B8B0003D650B /* Debug */,
-				CCBF33781F17B8B0003D650B /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-		};
-		CCBF33791F17B8B0003D650B /* Build configuration list for PBXNativeTarget "GiffyUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				CCBF337A1F17B8B0003D650B /* Debug */,
-				CCBF337B1F17B8B0003D650B /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
